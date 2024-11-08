@@ -41,3 +41,6 @@ services:
     depends_on:
     - prometheus
 
+## Loki - for logs
+## Tempo - for traces
+## Mimir - for metrics.
